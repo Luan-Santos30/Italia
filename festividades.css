@@ -37,3 +37,6 @@ a{
     text-decoration: none;
 }
 
+.especial{
+    border-bottom: 1px solid black;
+}
