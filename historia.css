@@ -1,5 +1,7 @@
 body{
     background-color: rgb(38, 43, 38);
+    text-align: center;
+
 }
 .topo{
     background-color: rgb(150, 4, 4);
@@ -35,14 +37,9 @@ a{
     text-align: center;
 }
 
-#link1{
-    margin: auto 550px;
+p{
+    text-align: justify;
 }
-
-#link2{
-    margin: auto 535px;
-}
-
 .especial{
     border-bottom: 1px solid black;
 }
