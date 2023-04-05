@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(38, 43, 38);
+}
+.topo{
+    background-color: rgb(150, 4, 4);
+    margin: 0;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+h1{
+    color: rgb(182, 170, 0);
+    text-decoration: underline ;
+}
+p{
+    color: white;
+    margin: 0;
+}
+h2{
+    color: white;
+    text-decoration: underline;
+}
+img{
+    margin: auto 300px; 
+    width: 700px;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+#link1{
+    margin: auto 550px;
+}
+
+#link2{
+    margin: auto 535px;
+}
+
+.especial{
+    border-bottom: 1px solid black;
+}
